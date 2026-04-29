@@ -182,3 +182,5 @@ cython_debug/
 
 # Data files
 ALL\ CSV\ FILES\ -\ 2nd\ Edition/
+# MyST build outputs
+_build

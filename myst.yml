@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6480ff30-8738-4a85-9179-59c08e2d7ad4
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/Matthew-Winters/ISLP-Solutions
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
